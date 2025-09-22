@@ -175,7 +175,7 @@ const Channel = () => {
         onCloseModal={onCloseModal}
         setShowInviteChannelModal={setShowInviteChannelModal}
       />
-      {dragOver && <DragOver>업로드!</DragOver>}
+      {dragOver && <DragOver>업로드!!</DragOver>}
    </Container>
    );
 }
